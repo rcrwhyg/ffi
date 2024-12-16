@@ -1,3 +1,20 @@
 {
-  "cSpell.words": ["napi"]
+  "cSpell.words": [
+    "asttokens",
+    "cdylib",
+    "colorama",
+    "ipython",
+    "lowlevel",
+    "matplotlib",
+    "maturin",
+    "napi",
+    "parso",
+    "pyclass",
+    "pyfunction",
+    "pygments",
+    "pymethods",
+    "pymodule",
+    "traitlets",
+    "wcwidth"
+  ]
 }
